@@ -1,0 +1,2 @@
+# EDA-Case-Study
+It is a basically loan dataset where as people had taken the loan and we shall to analyze which people eligible for the loan and which is defaulter list (which is already taken a loan but not repay) and how many people currently repaying  the loan and plot the dataset which  peoples in defaulter list and which one is currently active to repaying the loan and which one the not repaying the loan amount after taking.
